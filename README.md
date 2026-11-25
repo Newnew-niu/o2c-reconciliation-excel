@@ -6,7 +6,7 @@ A self-directed practice project: a full month-end order-to-cash close for a fic
 
 **Tableau dashboard:** https://public.tableau.com/app/profile/xuefei.niu/viz/O2C_Dashboard/O2CDashboard
 
-**Excel workbook (view online, no download):** [link – add after sharing from OneDrive]
+**Excel workbook (view online, no download):** [Open v5_final.xlsx in Excel Online](https://1drv.ms/x/c/2b3b39805b3e81f5/IQDepyjZOTNdQKEO1V9F0F7MAQgKjm0elCIO45CwA0N9Bhg?e=PzYIRc)
 
 ![Tableau dashboard](screenshots/04_dashboard.png)
 
